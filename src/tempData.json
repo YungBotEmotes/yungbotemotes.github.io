@@ -1118,12 +1118,6 @@
         ],
         [
             0,
-            "pausechamp",
-            "https://cdn.frankerfacez.com/emoticon/349048/1",
-            10
-        ],
-        [
-            0,
             "poggies",
             "https://cdn.frankerfacez.com/emoticon/257284/1",
             1
@@ -1205,6 +1199,12 @@
             "ppogo",
             "https://cdn.betterttv.net/emote/5ebf33919af1ea16863b1860/1x",
             1
+        ],
+        [
+            0,
+            "pausechamp",
+            "https://cdn.frankerfacez.com/emoticon/349048/1",
+            11
         ],
         [
             0,
