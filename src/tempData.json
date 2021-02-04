@@ -10,7 +10,7 @@
             0,
             "3Head",
             "https://cdn.frankerfacez.com/de0f5b7104447083879bcdd17420330d.png",
-            1
+            2
         ],
         [
             0,
@@ -52,7 +52,7 @@
             0,
             "5Head",
             "https://cdn.frankerfacez.com/d5a0a62e3ee4378509dd3485fd27a4a3.PNG",
-            16
+            19
         ],
         [
             0,
@@ -166,7 +166,7 @@
             0,
             "Kapp",
             "https://cdn.frankerfacez.com/55c2fc5e38e679aab5ce5001e3e9fd34.PNG",
-            37
+            38
         ],
         [
             0,
@@ -196,13 +196,13 @@
             0,
             "POGGERS",
             "https://cdn.frankerfacez.com/6408d13c10d950de086621162d3e95b9.png",
-            37
+            43
         ],
         [
             0,
             "PagChomp",
             "https://cdn.frankerfacez.com/e49d907c6be241b7619458d19e440900.PNG",
-            4
+            5
         ],
         [
             0,
@@ -232,7 +232,7 @@
             0,
             "Pog",
             "https://cdn.frankerfacez.com/8b0bdafc59ef0782dcd99ab57434699d.PNG",
-            112
+            122
         ],
         [
             0,
@@ -262,7 +262,7 @@
             0,
             "WaitWhat",
             "https://cdn.frankerfacez.com/b98b8fec766d3a404f78ec7676fc8395.PNG",
-            6
+            8
         ],
         [
             0,
@@ -274,7 +274,7 @@
             0,
             "WeirdChamp",
             "https://cdn.frankerfacez.com/6406881ab91dc9487ca642220e44ad6e.PNG",
-            6
+            7
         ],
         [
             0,
@@ -370,7 +370,7 @@
             0,
             "bussers",
             "https://cdn.frankerfacez.com/emoticon/525394/2",
-            13
+            19
         ],
         [
             0,
@@ -389,6 +389,12 @@
             "coffinpls",
             "https://cdn.betterttv.net/emote/5e9e978c74046462f7674f9f/2x",
             0
+        ],
+        [
+            12,
+            "copium",
+            "https://cdn.betterttv.net/emote/5f64475bd7160803d895a112/2x",
+            1
         ],
         [
             0,
@@ -424,13 +430,13 @@
             0,
             "ez",
             "https://cdn.frankerfacez.com/93a44835d8506b01d49928166dc5f8a1.PNG",
-            23
+            27
         ],
         [
             0,
             "failfish",
             "https://static-cdn.jtvnw.net/emoticons/v1/360/1.0",
-            28
+            30
         ],
         [
             0,
@@ -454,7 +460,7 @@
             12,
             "feelstiredman",
             "https://cdn.frankerfacez.com/emoticon/542563/2",
-            3
+            4
         ],
         [
             0,
@@ -508,7 +514,7 @@
             0,
             "jammies",
             "https://cdn.betterttv.net/emote/5d2dc7dcff6ed3680130eb6d/2x",
-            0
+            1
         ],
         [
             0,
@@ -520,13 +526,19 @@
             0,
             "kappa",
             "https://static-cdn.jtvnw.net/emoticons/v1/25/1.0",
-            21
+            23
         ],
         [
             0,
             "kappaross",
             "https://static-cdn.jtvnw.net/emoticons/v1/70433/2.0",
             0
+        ],
+        [
+            12,
+            "kappito",
+            "https://cdn.frankerfacez.com/emoticon/54937/2",
+            2
         ],
         [
             0,
@@ -541,6 +553,18 @@
             3
         ],
         [
+            12,
+            "kekgatsby",
+            "https://cdn.frankerfacez.com/emoticon/569239/2",
+            3
+        ],
+        [
+            12,
+            "kekl",
+            "https://cdn.betterttv.net/emote/5e6a0d0a8c0f5c3723a904ef/2x",
+            3
+        ],
+        [
             0,
             "kekmad",
             "https://cdn.frankerfacez.com/emoticon/398461/1",
@@ -550,13 +574,13 @@
             0,
             "kekpog",
             "https://cdn.frankerfacez.com/emoticon/429909/1",
-            4
+            7
         ],
         [
             0,
             "kekw",
             "https://cdn.frankerfacez.com/emoticon/381875/1",
-            120
+            141
         ],
         [
             0,
@@ -574,7 +598,7 @@
             12,
             "kekwarrive",
             "https://cdn.betterttv.net/emote/5e150a04b974112104804640/2x",
-            9
+            11
         ],
         [
             12,
@@ -589,22 +613,28 @@
             2
         ],
         [
+            12,
+            "kekwfancy",
+            "https://cdn.frankerfacez.com/emoticon/570297/2",
+            2
+        ],
+        [
             0,
             "kekwlaugh",
             "https://cdn.betterttv.net/emote/5d793f2e14011815db9377d2/1x",
-            3
+            4
         ],
         [
             0,
             "kreygasm",
             "https://cdn.frankerfacez.com/emoticon/419523/1",
-            8
+            9
         ],
         [
             12,
             "lebronjam",
             "https://cdn.betterttv.net/emote/5f38abea8abf185d76c6ed3d/2x",
-            4
+            5
         ],
         [
             0,
@@ -616,7 +646,7 @@
             0,
             "lul",
             "https://static-cdn.jtvnw.net/emoticons/v1/425618/1.0",
-            12
+            14
         ],
         [
             0,
@@ -646,13 +676,13 @@
             12,
             "modcheck",
             "https://cdn.betterttv.net/emote/5d7eefb7c0652668c9e4d394/2x",
-            12
+            15
         ],
         [
             12,
             "monaks",
             "https://cdn.frankerfacez.com/emoticon/184836/2",
-            1
+            2
         ],
         [
             0,
@@ -688,7 +718,7 @@
             0,
             "monkaW",
             "https://cdn.frankerfacez.com/bc3bcac1618d167fa641bae643e5511a.PNG",
-            13
+            19
         ],
         [
             0,
@@ -706,7 +736,7 @@
             0,
             "monkahmm",
             "https://cdn.frankerfacez.com/emoticon/240746/2",
-            2
+            3
         ],
         [
             0,
@@ -718,7 +748,7 @@
             12,
             "monkapog",
             "https://cdn.frankerfacez.com/emoticon/398503/2",
-            3
+            4
         ],
         [
             0,
@@ -748,7 +778,7 @@
             0,
             "nop",
             "https://cdn.frankerfacez.com/emoticon/422040/2",
-            10
+            11
         ],
         [
             0,
@@ -782,9 +812,15 @@
         ],
         [
             12,
+            "omegakek",
+            "https://cdn.frankerfacez.com/emoticon/570876/2",
+            1
+        ],
+        [
+            12,
             "omegaluliguess",
             "https://cdn.betterttv.net/emote/5fecb5fa60488f2e470efd74/2x",
-            4
+            6
         ],
         [
             0,
@@ -808,7 +844,7 @@
             0,
             "pausechamp",
             "https://cdn.frankerfacez.com/emoticon/349048/1",
-            13
+            15
         ],
         [
             0,
@@ -844,13 +880,13 @@
             0,
             "peepoarrive",
             "https://cdn.betterttv.net/emote/5d922afbc0652668c9e52ead/2x",
-            32
+            34
         ],
         [
             12,
             "peepoarrivehd",
             "https://cdn.betterttv.net/emote/5f639bd09d79b403d9336067/2x",
-            12
+            13
         ],
         [
             0,
@@ -940,7 +976,7 @@
             0,
             "peepogiggles",
             "https://cdn.betterttv.net/emote/5e0bcf69031ec77bab473476/1x",
-            25
+            26
         ],
         [
             0,
@@ -958,13 +994,13 @@
             0,
             "peepohey",
             "https://cdn.betterttv.net/emote/5e162859b640b52102c684f7/2x",
-            6
+            7
         ],
         [
             0,
             "peepohmm",
             "https://cdn.frankerfacez.com/emoticon/296093/1",
-            5
+            6
         ],
         [
             0,
@@ -1114,7 +1150,7 @@
             0,
             "peepostocks",
             "https://static-cdn.jtvnw.net/emoticons/v1/301204996/2.0",
-            2
+            3
         ],
         [
             0,
@@ -1126,7 +1162,7 @@
             0,
             "peepoweeb",
             "https://cdn.betterttv.net/emote/5ed2c5b2fdee545e3065bd6b/2x",
-            2
+            3
         ],
         [
             0,
@@ -1192,7 +1228,7 @@
             12,
             "pepegahands",
             "https://cdn.frankerfacez.com/emoticon/286923/2",
-            3
+            4
         ],
         [
             0,
@@ -1252,7 +1288,7 @@
             12,
             "peperito",
             "https://cdn.frankerfacez.com/emoticon/313088/2",
-            15
+            16
         ],
         [
             12,
@@ -1312,7 +1348,7 @@
             12,
             "prayge",
             "https://cdn.betterttv.net/emote/5f3ef6123212445d6fb49f1a/2x",
-            4
+            7
         ],
         [
             12,
@@ -1336,19 +1372,19 @@
             0,
             "sadge",
             "https://cdn.betterttv.net/emote/5e0fa9d40550d42106b8a489/2x",
-            13
+            14
         ],
         [
             0,
             "saved",
             "https://cdn.betterttv.net/emote/5e56da6a95a74a54e385bccc/2x",
-            4
+            5
         ],
         [
             0,
             "seemsgood",
             "https://static-cdn.jtvnw.net/emoticons/v1/64138/2.0",
-            1
+            2
         ],
         [
             0,
@@ -1360,7 +1396,7 @@
             0,
             "thinking",
             "https://cdn.betterttv.net/emote/5f1436931ab9be446c4d0811/2x",
-            16
+            19
         ],
         [
             0,
@@ -1426,19 +1462,19 @@
             0,
             "yep",
             "https://cdn.frankerfacez.com/emoticon/418189/2",
-            21
+            22
         ],
         [
             12,
             "yeppers",
             "https://cdn.betterttv.net/emote/5e5aa6c2eb16d554dde5db7b/2x",
-            1
+            2
         ],
         [
             0,
             "yikers",
             "https://cdn.betterttv.net/emote/58928cb2d93fc72ab4ba1b3b/1x",
-            21
+            23
         ],
         [
             0,
